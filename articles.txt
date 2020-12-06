@@ -1,0 +1,133 @@
+topic|title|author|source|is_read
+linux|In the Beginning Was the Command Line|Stephenson||false
+linux|||opensource.com/article/19/12/ratpoison-linux-desktop|false
+linux|||linusakesson.net/programming/tty/index.php|false
+linux|||tldp.org/HOWTO/NCURSES-Programming-HOWTO/intro.html|false
+linux|A Critique of the Remote Procedure Call Paradigm|Tanenbaum||false
+linux|Just for Fun|Torvalds, Linus||false
+security|||blog.gitguardian.com/security-tools-shift-left|false
+security|BeyondCorp: A New Approach to Enterprise Security|Ward, R||false
+security|The Systems Engineering Side of Site Reliability Engineering|Hixson, D||false
+linux|Recursive Make Considered Harmful|||false
+networking|Why Threads Are a Bad Idea|Ousterhout||false
+networking|On the Design of Application Protocols|Rose, Marshall||false
+networking|RFC3205 On the Use of HTTP As a Substrate|||false
+networking|RFC2568 Rationale for the Structure of the Model and Protocol for the Internet Printing Protocol|||false
+networking|A Standard for the Transmission of IP Datagrams on Avian Carriers (RFC 1149)|||false
+networking|The Hyper Text Coffee Pot Control Protocol (RFC 2324)|||false
+networking|The Security Flag in the IPv4 Header (RFC 3514)|||false
+software-engineering|A Global Survey of Software Development Practice|||false
+software-engineering|The Humble Programmer|Dijkstra, Edsger||false
+misc|||web.mit.edu/jemorris/humor/500-miles|false
+statistics|||statsthinking21.github.io/statsthinking21-core-site/index.html|false
+legal|||csoonline.com/article/3202771/general-data-protection-regulation-gdpr-requirements-deadlines-and-facts.html|false
+ml-ops|||forbes.com/sites/cognitiveworld/2020/03/08/the-emergence-of-ml-ops/amp/|false
+ml-ops|||techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics|false
+auto-ml|||arxiv.org/abs/2003.03384|false
+auto-ml|||kdnuggets.com/2020/02/data-scientists-automl-replace.html|false
+ml|||link.medium.com/we3x5edFZ3|false
+interpretable-ml|||christophm.github.io/interpretable-ml-book/|false
+ml-tuning|||arxiv.org/abs/2003.05689v1|false
+deep-learning|||nips2017creativity.github.io/doc/Neural_Style_Spectrograms.pdf|false
+deep-learning|||towarddatascience.com/how-to-apply-machine-learning-and-dep-learning-methods-to-audio-analysi-615e286fcbbc|false
+deep-learning|||kdnuggets.com/2020/02/audio-data-analysis-deep-learning-python-part-1.html|false
+deep-learning|||medium.com/@mikesmales/sound-classification-using-deep-learning-8bc8aa1990b7|false
+deep-learning|SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition||arxiv.org/pdf/1904.08779.pdf|false
+deep-learning|Deep Sparse Rectifier Neural Networks||proceedings.mlr.press/v15/glorot11a|false
+deep-learning|A Neural Algorithm of Artistic Style|Gatys, Leon|arxiv.org/abs/1508.06576|false
+deep-learning|Exploring the structure of a real-time, arbitrary neural artistic stylization network|Golnaz, Ghiasi|arxiv.org/abs/1705.06830|false
+deep-learning|'Less Than One'-Shot Learning:||arxiv.org/pdf/2009.0849.pdf|false
+deep-learning|||ai.googleblog.com/2020/03/announcing-tensorflow-quantum-open.html?m=1|false
+deep-learning|||neuralmagic.com/blog/announcing-the-neural-magic-inference-engine/|false
+deep-learning|||arxiv.org/abs/1907.06902|false
+geometric-deep-learning|||geometricdeeplearning.com|false
+geometric-deep-learning|||github.com/thunlp/GNNPapers|false
+geometric-deep-learning|||github.com/dragen1860/Graph-Neural-Network-Papers|false
+geometric-deep-learning|||github.com/rusty1s/pytorch_geometric|false
+geometric-deep-learning|||ogb.standford.edu|false
+geometric-deep-learning|||arxiv.org/abs/1611.08097|false
+deep-learning|Do We Need Deep Graph Neural Networks?||towardsdatascience.com/do-we-need-deep-graph-neural-networks-be62d3ec5c59|false
+reinforcement-learning|||daniel-heesch.com/static/reinforcement_learning.pdf|false
+reinforcement-learning|||incompleteideas.net/book/bookdraft2017nov5.pdf|false
+reinforcement-learning|||arxiv.org/pdf/1003.0146.pdf|false
+reinforcement-learning|||lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html|false
+data-management|||labs.spotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/|false
+ai-ethics|||ai.googleblog.com/2020/02/ml-fairness-gym-tool-for-exploring-long.html|false
+ai-ethics|||rand.org/blog/2020/01/artificial-intelligence-and-the-manufacturing-of-reality.html|false
+security|||netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968|false
+security|||washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/|false
+stats|Elements of Data Science|Downey, Allen|allendowney.github.io/ElementsOfDataScience/|false
+stats|Statistical Thinking for the 21st Century||statsthinking21.github.io/statsthinking21-core-site/index.html|false
+nlp|Regular Expression for Regular Folk||refrf.shreyasminocha.me/|false
+math|Guide to Discrete Mathematics||link.springer.com/book/10.1007/978-3-319-44561-8|false
+computing|Systems Programming in Unix/Linux||link.springer.com/book/10.1007/978-3-319-92429-8|false
+c/c++|Scientific Computing in C++||link.springer.com/book/10.1007/978-3-319-73132-2|false
+optimization|Handbook of Metaheuristics||link.springer.com/book/10.1007/978-1-4419-1665-5|false
+compilers|||stack.nl/~marcov/compiler.pdf|false
+compilers|Modern Compiler Implementation|Appel, Andre||false
+c/c++|The Art of Concurrency|Breshears, C||false
+computing|Managing Gigabytes: Compressing and Indexing Documents and Images|Witten, Ian||false
+optimization|||bids.berkeley.edu/events/crash-course-optimization|false
+optimization|||quora.com/What-are-some-good-resources-to-learn-about-optimization|false
+compilers|An Incremental Approach to Compiler Construction||scheme2006.cs.uchicago.edu/11-ghuloum.pdf|false
+deep-learning|||news.mit.edu/2020/haoxiang-zhu-financial-1101|false
+deep-learning|Algorithms for Causal Reasoning in Probability Trees||arxiv.org/pdf/2010.12237.pdf|false
+computing|Managing resources with cgroups in systemd|Both, David|opensource.com/article/20/10/cgroups|false
+deep-learning|||news.mit.edu/2020/translating-lost-languages-using-machine-learning-1021|false
+computing|||redhat.com/sysadmin/cgroups-part-one|false
+deep-learning|Attention is All You Need||papers.nips.cc/paper/7181-attention-is-all-you-need.pdf|false
+computing|||syncedreview.com/2020/10/02/google-cambridge-deepmind-alan-turing-institutes-performer-transformer-slashes-compute-costs|false
+deep-learning|||zdnet.com/article/what-is-gpt-3-everything-business-needs-to-know-about-openais-breakthrough-ai-language-program|false
+math|||wired.com/story/mathematical-hocus-pocus-saved-particle-physics|false
+deep-learning|Language Mdels are Few-Shot Learnings|Brown, Tom|arxiv.org/abs/2005.14165|false
+deep-learning|Artificial Neural Networks Applied to Taxi Destination Prediction|Bengio, Yoshua|arxiv.org/abs/1508.00021|false
+linux|How to build a great linux pc for under 1000||techrepublic.com/google-amp/article/how-to-build-a-great-linux-pc-for-under-1000-usd|false
+software-engineering|Making Push On Green a Reality (Google SRE)|||false
+software-engineering|How Embracing Continuous Release Reduced Change Complexity|||false
+software-engineering|Maintaining Consistency in a Massively Parallel Environment|||false
+software-engineering|The 10 Commandments of Release Engineering|||false
+software-engineering|Distributing Software in a Massively Parallel Environment|||false
+compilers|Notable Design Patterns for Domain-Specific Languages|Spinellis||false
+compilers|Lisp: Good News, Bad News, and How to Win Big|Gabriel, Richard||false
+compilers|No Silver Bullet|Brooks, Fred||false
+compilers|Ed is the standard editor|||false
+software-engineering|Our Software Dependency Problem||research.swtch.com/deps|false
+software-engineering|Minimal Version Selection||research.swtch.com/vgo-mvs|false
+c/c++|||levelofindirection.com/blog/east-end-functions.html|false
+c/c++|||CVE-2001-0500 (buffer overflow in Microsoft's Internet Information Services)|false
+c/c++|||drdobbs.com/cpp/c-and-the-perils-of-double-checked-locki/184405726/|false
+c/c++|||herbsutter.com/2010/09/24/effective-concurrency-know-when-to-use-an-active-object-instead-of-a-mutex/|false
+python|||docs.quantifiedcode.com/python-anti-patterns/index.html|false
+python|||pythonspeed.com/articles/mmap-vs-zarr-hdf5/|false
+linux|||redhat.com/sysadmin/stupid-bash-tricks|false
+c/c++|||trailofbits.github.io/ctf/vulnerabilites/references/Dowd_ch06.pdf|false
+c/c++|On the critera to be used in decomposing systems into modules|Parnas||false
+c/c++|Skip lists: A probabilistic alternative to balanced trees|Pugh, W||false
+c/c++|Garbage collection|Appel, A||false
+c/c++|||devernay.free.fr/cours/IHM/GTK/gnome-libs-tutorial.pdf|false
+c/c++|Csh Programming Considered Harmful|Christiansen, Tom||false
+compilers|||stack.nl/~marcov/compiler.pdf|false
+compilers|||norasandler.com/2017/11/29/Write-a-Compiler.html|false
+compilers|Modern Compiler Implementation|Appel, Andrew||false
+c/c++|||dabeaz.com/papers/CiSE/c5090.pdf|true
+deep-learning|Feature Visualization||distill.pub/2017/feature-visualization|true
+neural-transfer|Understanding style transfer||ptrrupprecht.wordpress.com/2017/12/05/understanding-style-transfer|true
+deep-learning|Teaching Physics to Neural Networks Removes 'Chaos Blindness'||phys.org/news/2020-06-physics-neural-networks-chaos.amp|true
+other|How you should read research papers||towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3|true
+deep-learning|TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems||static.googleusercontent.com/media/research.google.com/en/pubs/archive/45166.pdf|true
+reinforcement-learning|Specification gaming: the flip side of AI ingenuity|Krakovna, Victoria|deepmind.com/blog/article/Specification-gaming-the-flip-side-of-AI-ingenuity|true
+c|||eradman.com/posts/tdd-in-c.html|true
+c|Smashing the Stack for Fun and Profit|||true
+c|Traps & Pitfalls ||di-mgt.com.au/src/trasandpitfalls.pdf|true
+computing|Missing Semester of Your CS Education||missing.csail.mit.edu|true
+deep-learning|More Descent, Less Gradient||koaning.io/posts/more-descent-less-gradient/|true
+python|Async IO Python||realpython.com/async-io-python/|true
+docker|Using Alpine can make Python Docker builds 50x slower||pythonspeed.com/articles/alpine-docker-python/|true
+deep-learning|How you should read research papers||towardsdatascience.com/how-you-should-read-research-papers-according-to-andrew-ng-stanford-deep-learning-lectures-98ecbd3ccfb3|true
+physics|The Most Famous Paradox in Physics Nears Its End|Musser, George|quantamagazine.org/the-black-hole-information-paradox-comes-to-an-end-20201029|true
+computing|Systems design for advanced beginners|Heaton, Robert|robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/|true
+deep-learning|||blog.griddynamics.com/customer2vec-representation-learning-and-automl-for-customer-analytics-and-personalization/|true
+linux|The Two-Edged Sword|Gettys, Jim||true
+linux|The UNIX Time-Sharing System|Ritchie & Thompson|people.eecs.berkley.edu/~brewer/cs262.unix.pdf|true
+linux|On Holy Wars and a Plea for Peace|Cohen, Danny||true
+c/c++|The Inside Story on Shared Libraries and Dynamic Loading|Beazley, David||true

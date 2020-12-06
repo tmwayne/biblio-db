@@ -11,8 +11,8 @@ CREATE TABLE articles (
     topic CHAR(64),
     title VARCHAR,
     author VARCHAR,
-    source VARCHAR
-    -- is_read BOOLEAN,
+    source VARCHAR,
+    is_read BOOLEAN
     -- rating INT
 );
 
@@ -21,4 +21,4 @@ CREATE TABLE articles (
 -- WITH (FORMAT csv, DELIMITER '|', HEADER True, NULL '');
 
 -- Copy table from client instead of server
-\copy articles (topic, title, author, source) FROM 'articles.txt' DELIMITER '|' CSV HEADER NULL ''
+\copy articles (topic, title, author, source, is_read) FROM 'articles.txt' DELIMITER '|' CSV HEADER NULL ''
