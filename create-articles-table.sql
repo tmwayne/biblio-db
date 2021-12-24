@@ -8,7 +8,7 @@ DROP TABLE IF EXISTS articles;
 
 CREATE TABLE articles (
     id SERIAL,
-    topic CHAR(64),
+    topic VARCHAR,
     title VARCHAR,
     author VARCHAR,
     source VARCHAR,
